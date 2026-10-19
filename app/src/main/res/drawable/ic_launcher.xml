@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Simple launcher icon: a slanted pen nib over a page. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <path
+        android:fillColor="#FFF4F1E8"
+        android:pathData="M8,4h26l6,6v34H8z" />
+    <path
+        android:fillColor="#FF2B3A55"
+        android:pathData="M34,4l6,6h-6z" />
+    <path
+        android:strokeColor="#FFB8B2A3"
+        android:strokeWidth="1.5"
+        android:pathData="M13,16h22M13,22h22M13,28h14" />
+    <path
+        android:fillColor="#FF2B3A55"
+        android:pathData="M37,17l4,4l-14,14l-5,1l1,-5z" />
+    <path
+        android:fillColor="#FFE07A3F"
+        android:pathData="M23,31l4,4l-5,1z" />
+</vector>

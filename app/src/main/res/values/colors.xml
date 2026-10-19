@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- App themes. Each theme is one block; edit the hex values to restyle it. -->
+<resources>
+    <!-- Dark -->
+    <color name="dark_top_bar">#FF4A2C7D</color>
+    <color name="dark_on_top_bar">#FFFFFFFF</color>
+    <color name="dark_accent">#FFC6A8FF</color>
+    <color name="dark_on_accent">#FF2B1452</color>
+    <color name="dark_background">#FF16121D</color>
+    <color name="dark_sidebar">#FF211A2C</color>
+    <color name="dark_card">#FF2C2439</color>
+    <color name="dark_selected">#FF4F3A72</color>
+    <color name="dark_folder">#FF9C84C9</color>
+    <color name="dark_folder_tab">#FF8A70BA</color>
+    <color name="dark_on_folder">#FF221338</color>
+    <color name="dark_text_primary">#FFEDE7F6</color>
+    <color name="dark_text_secondary">#FFB7AECB</color>
+    <color name="dark_desk">#FF2A2433</color>
+    <color name="dark_divider">#FF3A3148</color>
+    <!-- Light -->
+    <color name="light_top_bar">#FF5B3A9A</color>
+    <color name="light_on_top_bar">#FFFFFFFF</color>
+    <color name="light_accent">#FF6A3FC2</color>
+    <color name="light_on_accent">#FFFFFFFF</color>
+    <color name="light_background">#FFF6F2FB</color>
+    <color name="light_sidebar">#FFECE5F6</color>
+    <color name="light_card">#FFFFFFFF</color>
+    <color name="light_selected">#FFDCCDF5</color>
+    <color name="light_folder">#FFB9A3E3</color>
+    <color name="light_folder_tab">#FFA68DD6</color>
+    <color name="light_on_folder">#FF2B1452</color>
+    <color name="light_text_primary">#FF1E1828</color>
+    <color name="light_text_secondary">#FF5E5670</color>
+    <color name="light_desk">#FFE3DEEA</color>
+    <color name="light_divider">#FFDDD5EA</color>
+    <!-- Sakura -->
+    <color name="sakura_top_bar">#FFC2557A</color>
+    <color name="sakura_on_top_bar">#FFFFFFFF</color>
+    <color name="sakura_accent">#FFD8578A</color>
+    <color name="sakura_on_accent">#FFFFFFFF</color>
+    <color name="sakura_background">#FFFFF4F7</color>
+    <color name="sakura_sidebar">#FFFCE4EC</color>
+    <color name="sakura_card">#FFFFFFFF</color>
+    <color name="sakura_selected">#FFF8C8D8</color>
+    <color name="sakura_folder">#FFF2A7C0</color>
+    <color name="sakura_folder_tab">#FFE98FAE</color>
+    <color name="sakura_on_folder">#FF4A1027</color>
+    <color name="sakura_text_primary">#FF2D1A22</color>
+    <color name="sakura_text_secondary">#FF7A5864</color>
+    <color name="sakura_desk">#FFF3E1E8</color>
+    <color name="sakura_divider">#FFF1D3DD</color>
+    <!-- Ocean -->
+    <color name="ocean_top_bar">#FF134B70</color>
+    <color name="ocean_on_top_bar">#FFFFFFFF</color>
+    <color name="ocean_accent">#FF6EC1E4</color>
+    <color name="ocean_on_accent">#FF062A3D</color>
+    <color name="ocean_background">#FF0E1A24</color>
+    <color name="ocean_sidebar">#FF13232F</color>
+    <color name="ocean_card">#FF1A2E3C</color>
+    <color name="ocean_selected">#FF22465E</color>
+    <color name="ocean_folder">#FF4F8FB3</color>
+    <color name="ocean_folder_tab">#FF3F7C9F</color>
+    <color name="ocean_on_folder">#FF06202F</color>
+    <color name="ocean_text_primary">#FFE3F1F8</color>
+    <color name="ocean_text_secondary">#FF9DB7C6</color>
+    <color name="ocean_desk">#FF1B2A35</color>
+    <color name="ocean_divider">#FF24394A</color>
+    <!-- Forest -->
+    <color name="forest_top_bar">#FF2F5D3A</color>
+    <color name="forest_on_top_bar">#FFFFFFFF</color>
+    <color name="forest_accent">#FF9BD6A4</color>
+    <color name="forest_on_accent">#FF0D2B14</color>
+    <color name="forest_background">#FF121A14</color>
+    <color name="forest_sidebar">#FF18241B</color>
+    <color name="forest_card">#FF213024</color>
+    <color name="forest_selected">#FF2F4C35</color>
+    <color name="forest_folder">#FF6FA77A</color>
+    <color name="forest_folder_tab">#FF5C9468</color>
+    <color name="forest_on_folder">#FF0B2310</color>
+    <color name="forest_text_primary">#FFE5F2E7</color>
+    <color name="forest_text_secondary">#FFA7BDA9</color>
+    <color name="forest_desk">#FF1E2A20</color>
+    <color name="forest_divider">#FF2A3B2D</color>
+    <!-- Midnight -->
+    <color name="midnight_top_bar">#FF000000</color>
+    <color name="midnight_on_top_bar">#FFFFFFFF</color>
+    <color name="midnight_accent">#FFB58CFF</color>
+    <color name="midnight_on_accent">#FF1C0B3A</color>
+    <color name="midnight_background">#FF000000</color>
+    <color name="midnight_sidebar">#FF0B0B0F</color>
+    <color name="midnight_card">#FF141419</color>
+    <color name="midnight_selected">#FF2A2140</color>
+    <color name="midnight_folder">#FF7E68A8</color>
+    <color name="midnight_folder_tab">#FF6C5794</color>
+    <color name="midnight_on_folder">#FFFFFFFF</color>
+    <color name="midnight_text_primary">#FFF2F0F7</color>
+    <color name="midnight_text_secondary">#FFA9A3B8</color>
+    <color name="midnight_desk">#FF0A0A0D</color>
+    <color name="midnight_divider">#FF1E1E26</color>
+</resources>
